@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone XS Max",
+      "description": "The newest, biggest iPhone. Perfect camera and battery life. The best on the market.",
+      "keywords": [
+        "new", "big", "iphone", "battery"
+      ],
+      "color": "red",
+      "image": "https://i.imgur.com/gfPj1Sq.png",
+      "stock": [
+        "190"
+      ],
+      "price": 1449.00
+    },
+    {
+      "id": 2,
+      "name": "iPhone XS",
+      "description": "Not as big, but still great. Perfect camera and battery life. The best on the market.",
+      "keywords": [
+        "new", "big", "iphone", "battery"
+      ],
+      "color": "red",
+      "image": "https://i.imgur.com/3oXPutC.png",
+      "stock": [
+        "130"
+      ],
+      "price": 1349.00
+    },
+    {
+      "id": 3,
+      "name": "iPhone XR",
+      "description": "Plastic and good. Fine camera and battery life.",
+      "keywords": [
+        "okay", "fine", "iphone", "battery"
+      ],
+      "color": "red",
+      "image": "https://i.imgur.com/Uxo0CA4.png",
+      "stock": [
+        "140"
+      ],
+      "price": 899.00
+    },
+    {
+      "id": 4,
+      "name": "iPhone X",
+      "description": "The best iPhone ever made. Pure perfection. Revolutionary. ",
+      "keywords": [
+        "best", "perfect", "iphone"
+      ],
+      "color": "red",
+      "image": "https://i.imgur.com/z4kH2bk.png",
+      "stock": [
+        "150"
+      ],
+      "price": 1000.00
+    },
+    {
+      "id": 5,
+      "name": "iPhone 8",
+      "description": "Not so bad. You can get a pretty good deal on them too.",
+      "keywords": [
+        "okay", "nice", "iphone"
+      ],
+      "color": "red",
+      "image": "https://i.imgur.com/EpfVnns.png",
+      "stock": [
+        "120"
+      ],
+      "price": 599.00
+    },
+    {
+      "id": 6,
+      "name": "iPhone 7",
+      "description": "Okay, you're reaching a little bit. You deserve better.",
+      "keywords": [
+        "okay", "medium", "iphone"
+      ],
+      "color": "red",
+      "image": "https://i.imgur.com/SSQlYEV.png",
+      "stock": [
+        "110"
+      ],
+      "price": 449.00
+    },
+    {
+      "id": 7,
+      "name": "iPhone 6",
+      "description": "Really, don't do this to yourself. Get a better phone.",
+      "keywords": [
+        "dont", "no", "iphone"
+      ],
+      "color": "red",
+      "image": "https://i.imgur.com/ea2YdRR.png",
+      "stock": [
+        "130"
+      ],
+      "price": 349.00
+    },
+    {
+      "id": 8,
+      "name": "iPhone SE",
+      "description": "DO NOT buy this. It is too old. Please, turn back.",
+      "keywords": [
+        "awful", "bad", "iphone"
+      ],
+      "color": "blue",
+      "image": "https://i.imgur.com/RlgbTMy.png",
+      "stock": [
+        "9"
+      ],
+      "price": 249.00
+    },
+    {
+      "id": 9,
+      "name": "iPhone 1",
+      "description": "What is wrong with you? They don't even make these anymore. NOT FOR SALE.",
+      "keywords": [
+        "old", "worst", "iphone"
+      ],
+      "color": "blue",
+      "image": "https://i.imgur.com/U6QgdAW.png",
+      "stock": [
+        "0"
+      ],
+      "price": 100.00
+    }
+  ]
+}
